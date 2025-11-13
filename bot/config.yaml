@@ -1,0 +1,6 @@
+pair: BTCUSDT
+base_order_size: 15
+safety_order_size: 10
+max_safety_orders: 3
+rsi_min: 25
+take_profit: 1.5
