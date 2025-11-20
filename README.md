@@ -7,6 +7,7 @@ This repository contains example code structure, configuration, and documentatio
 > Learn more about the full version of this bot at [PrimeTradingBot.com](https://primetradingbot.com)  
 > or read the product overview: [Prime Spot DCA Trading Bot](https://primetradingbot.com/spotdca.html)
 
+![Prime Bot GUI](/assets/images/screenshot.png)
 ---
 
 ## Features (Example)
