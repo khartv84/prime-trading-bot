@@ -63,7 +63,8 @@ echo ">>> ⚙️ Creating Service..."
 cat <<EOF > /etc/systemd/system/$SERVICE_NAME.service
 [Unit]
 Description=Prime Trading Bot Server
-After=network.target
+After=network-online.target
+Wants=network-online.target
 
 [Service]
 Type=simple
