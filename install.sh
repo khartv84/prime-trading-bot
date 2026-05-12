@@ -2,11 +2,11 @@
 
 # ==========================================
 # Prime Trading Bot - Auto Installer (Universal)
-# Version: 3.1 (Multi-User Support)
+# Version: 1.0
 # ==========================================
 
 # 1. Configuration
-VERSION="v3.0"
+VERSION="v4.0"
 BINARY_NAME="Server-Linux.bin"
 DOWNLOAD_URL="https://github.com/khartv84/prime-trading-bot/releases/download/$VERSION/$BINARY_NAME"
 INSTALL_DIR="/opt/primetradingbot"
